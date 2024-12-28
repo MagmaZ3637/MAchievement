@@ -1,0 +1,21 @@
+name: MAchievement
+api: 5.0.0
+version: 1.0.0
+main: MagmaZ3637\achievement\Achievement
+author: MagmaZ3637
+description: MAchievement is a plugin designed for PocketMine-MP servers, allowing players to track and manage their in-game achievements with ease.
+website:
+
+commands:
+  achievement:
+    permission: achievement.use
+    description: Open your achievement
+  achievementreload:
+    permission: achievement.reload.command
+    description: Reload all config
+
+permissions:
+  achievement.use:
+    default: true
+  achievement.reload.command:
+    default: op
