@@ -60,6 +60,6 @@ menu-type: GUI
 ---
 
 ## License
-[MIT Licence]().
+[MIT Licence](https://github.com/MagmaZ3637/MAchievement/blob/main/LICENSE).
 
 ---
